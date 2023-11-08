@@ -20,7 +20,7 @@ int main() {
   std::string name = "John";
   std::string lastName = "Doe";
 
-  std::cout << name << lastName << std::endl;
+  std::cout << name << " " << lastName << std::endl;
  
 
   //float - decimal number
@@ -36,5 +36,5 @@ int main() {
 
   std::cout << isTrue << std::endl;
   std::cout << isFalse << std::endl;
-  return 0;  
+  return 0;
 }
