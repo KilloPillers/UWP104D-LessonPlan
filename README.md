@@ -30,7 +30,7 @@ Follow the guide below to install Git onto your computer and clone the lessons r
    - In your command line interface, type the following command and replace `<repository-url>` with the URL you copied in step 2:
 
      ```
-     git clone [<repository-url>](https://github.com/KilloPillers/UWP104D-LessonPlan)
+     git clone https://github.com/KilloPillers/UWP104D-LessonPlan
      ```
 
    - Press Enter to execute the command.
