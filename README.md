@@ -50,5 +50,3 @@ Follow the guide below to install Git onto your computer and clone the lessons r
 8. **You're Done!**:
 
     - You've successfully cloned a public repository. You can now work on the code, make changes, and interact with the repository using Git.
-
-That's it! You've cloned a public repository from GitHub to your local machine.
